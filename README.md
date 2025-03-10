@@ -98,19 +98,63 @@
 - [Ip-Location](https://www.iplocation.net/ip-lookup)
 
 - [Snipp](https://snipp.ru/tools/ip)
+- [Grabify](https://grabify.link/)
+
 
 
 # Geoint
 
 - [Overpass](https://overpass-turbo.eu/)
-- [GeoSpy](https://geospy.ai/)
-- [Google](https://www.google.com/?olud)
-- [Baidu](https://images.baidu.com/)
-- [TinEye](https://tineye.com/)
-- [GEWEL](https://publish.obsidian.md/dukera-gewel/about)
-- [NasaWorldViev](https://worldview.earthdata.nasa.gov/)
-- [ExifTool](https://exiftool.org/)
-- [Geomastr](https://geomastr.com/country/indonesia/)
   
+- [GeoSpy](https://geospy.ai/)
+  
+- [Google](https://www.google.com/?olud)
+  
+- [Baidu](https://images.baidu.com/)
+  
+- [TinEye](https://tineye.com/)
+  
+- [GEWEL](https://publish.obsidian.md/dukera-gewel/about)
+  
+- [NasaWorldViev](https://worldview.earthdata.nasa.gov/)
+  
+- [ExifTool](https://exiftool.org/)
+  
+- [Geomastr](https://geomastr.com/country/indonesia/)
+
+# GPT osint
+
+- [Topazlabs](https://www.topazlabs.com/)
+  
+- [Upscale](https://www.upscale.media/ru/upload)
+  
+- [Jasper](https://huggingface.co/spaces/jasperai/Flux.1-dev-Controlnet-Upscaler)
+  
+- [Upscayl](https://upscayl.org/)
+  
+- [EarthKit](https://earthkit.app/)
+  
+- [Picarta](https://picarta.ai/)
+  
+- [Location Predictor](https://huggingface.co/spaces/yunusserhat/Location_Predictor)
+
+- [Plonk](https://huggingface.co/spaces/nicolas-dufour/Plonk)
+
+# Telegram
+
+- [FunStat](https://t.me/fan_statbot)
+  
+- [TeleSint](https://t.me/telesint_2025_bot)
+
+- [TeleScan](https://t.me/US2Telescan_Bot)
+
+- [TgStat](https://tgstat.ru/analytics)
+
+- [InfoUsername](https://t.me/usinfobot)
+
+- [ChatList](https://t.me/getchatlistbot)
+
+- [MotherSearch](https://t.me/MotherSearchBot)
+
 
 
