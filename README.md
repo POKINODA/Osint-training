@@ -66,3 +66,38 @@
 [SearchBsz](https://github.com/AvastrOficial/SearchBsz)
 
 
+# Domain
+
+[Maltego](https://www.maltego.com/)
+
+[Domain Osint](https://github.com/sdcweb/Domains_OSINT)
+
+[Shodan](Shodan.io)
+
+[TheDomainRobot](https://thedomainrobot.com/)
+
+[ICANN WHOIS](https://lookup.icann.org/en/lookup)
+
+[GoDaddy](https://gcd.com/whois/)
+
+[Domain Cat](https://github.com/DomainTools/DomainCAT)
+
+
+# Ip 
+
+[Maltego](https://www.maltego.com/)
+
+[IpInfo](https://github.com/AlexZiroYT/IPinfo)
+
+[TraxOsint](https://github.com/N0rz3/TraxOsint)
+
+[5LEG](https://github.com/jomoza/5ELG)
+
+[IP-SINT](https://github.com/t0mxplo1t/IP-OSINT)
+
+[Ip-Location](https://www.iplocation.net/ip-lookup)
+
+[Snipp](https://snipp.ru/tools/ip)
+
+
+
