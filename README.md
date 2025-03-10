@@ -15,8 +15,6 @@
 | Ip                                        | 
 | Geoint                                    |  
 | GPT OSINT                                 | 
-| Subdomain                                 | 
-| Google Dorks                              |
 | Telegram                                  |
 | Email                                     |
 
@@ -156,5 +154,19 @@
 
 - [MotherSearch](https://t.me/MotherSearchBot)
 
+# Email
 
+- [X-Osint](https://github.com/TermuxHackz/X-osint)
+
+- [Zehef](https://github.com/N0rz3/Zehef)
+
+- [Email Osint](https://github.com/KanekiWeb/Email-Osint)
+
+- [BlaclTiger](https://github.com/VirusZzHkP/The-Black-Tiger)
+
+- [EmailOsint](https://github.com/drooling/email-osint)
+
+- [Emailosint](https://github.com/krishpranav/emailosint)
+
+- [Mosint](https://github.com/alpkeskin/mosint)
 
