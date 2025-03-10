@@ -22,3 +22,14 @@
 
 
 # Nickname
+
+[Sherlock](https://github.com/sherlock-project/sherlock)
+[Maigret](https://github.com/soxoj/maigret)
+[SocialAnalyzer](https://github.com/qeeqbox/social-analyzer)
+[Snoop](https://github.com/snooppr/snoop)
+[InstantUsername](https://instantusername.com/)
+[ArinaOsint](https://github.com/AlexC-ux/Arina-OSINT-nickname-checker-)
+[SherlockGo](https://github.com/mesuutt/sherlock)
+[Userrecon](https://github.com/wishihab/userrecon)
+[NicknameFinder](https://github.com/restanse/NicknameFinder)
+
