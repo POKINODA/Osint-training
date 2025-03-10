@@ -24,12 +24,45 @@
 # Nickname
 
 [Sherlock](https://github.com/sherlock-project/sherlock)
+
 [Maigret](https://github.com/soxoj/maigret)
+
 [SocialAnalyzer](https://github.com/qeeqbox/social-analyzer)
+
 [Snoop](https://github.com/snooppr/snoop)
+
 [InstantUsername](https://instantusername.com/)
+
 [ArinaOsint](https://github.com/AlexC-ux/Arina-OSINT-nickname-checker-)
+
 [SherlockGo](https://github.com/mesuutt/sherlock)
+
 [Userrecon](https://github.com/wishihab/userrecon)
+
 [NicknameFinder](https://github.com/restanse/NicknameFinder)
+
+
+
+# Phone Number
+
+[PhoneCheck](https://github.com/AlexZiroYT/PhoneCheck)
+
+[SMSC](https://smsc.ru/bulksms/?lnk=46&utm_source=yandex&utm_medium=cpc&utm_campaign=master%7C116588130%7Csearch&utm_content=gid%7C5520972929%7Caid%7C16703644111%7C53887438975_53887438975%7Cmain&utm_term=---autotargeting&pm_source=none&pm_block=premium&pm_position=1&keyword=---autotargeting&yclid=16817881666491514879)
+
+[PhoneFinder](https://my-phone-finder.com/result)
+
+[NumberLookup](https://www.ipqualityscore.com/free-phone-number-lookup)
+
+[NoBlackMail](https://github.com/DataSC3/noblack-mail)
+
+[Collector](https://github.com/galihap76/collector)
+
+[Inspector](https://github.com/N0rz3/Inspector)
+
+[DarkHydra](https://github.com/Euronymou5/Dark-Hydro)
+
+[GeoPhone](https://github.com/evilfeonix/Geo-Phone)
+
+[SearchBsz](https://github.com/AvastrOficial/SearchBsz)
+
 
