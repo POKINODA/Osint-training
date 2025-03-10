@@ -215,6 +215,37 @@ WHOIS-запрос: Позволяет узнать, кому принадлеж
 - [Эволюция кибер-угроз | David x Павел Хавский](https://rutube.ru/video/f77d1064d1269d625bf54d7d920e6d64/)
 
 
+# Courses
+
+[360 security](https://www.360sec.ru/courses/106)
+
+[Codeby](https://osint-offensive.codeby.school/)
+
+[IN-SEC A](https://inseca.tech/osint-training)
+
+[Нетология](https://netology.ru/programs/informationsecurity?utm_source=advcake&utm_medium=cpa&utm_campaign=affiliate&utm_content=a7873fdc&advcake_params=492fc9b33adf9fb0f8daf54811654cd6&utm_term=492fc9b33adf9fb0f8daf54811654cd6&sub5=krshb67cf11e693303&erid=LdtCKCxkP&advcake_method=2&m=2#/)
+
+[SkillBox](https://skillbox.ru/course/profession-cybersecurity/?utm_source=advcake&utm_medium=cpa&utm_campaign=affiliate&utm_content=affiliate&advcake_params=9457970bf8ffebffc831f77a2e68a9c4&utm_term=9457970bf8ffebffc831f77a2e68a9c4&sub5=krshb67cf11f3d10a4&erid=2VfnxyFWM3N&advcake_method=2&m=2)
+
+
+### Tasks geoint
+
+[Osint Mindest](https://t.me/+GMxoDCvLO0k0MWRi)
+
+[Osint Geo](https://gralhix.com/list-of-osint-exercises/)
+
+[BellingCat](https://challenge.bellingcat.com/)
+
+[Geo1nt](https://t.me/GEO1NT)
+
+[RedditGeoint](https://www.reddit.com/r/wherewasthistaken/)
+
+[GitBookGeoint](https://gitbook.osint-mindset.com/cases/reshenie-geoint_quiz-34)
+
+[Осинт Заначка](https://t.me/osint_box)
+
+
+
 
 
 
