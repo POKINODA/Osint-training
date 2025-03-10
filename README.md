@@ -214,21 +214,7 @@ WHOIS-запрос: Позволяет узнать, кому принадлеж
 
 - [Эволюция кибер-угроз | David x Павел Хавский](https://rutube.ru/video/f77d1064d1269d625bf54d7d920e6d64/)
 
-# Osint Books
 
-Open Source Intelligence Methods and Tools.
-Nihad A. Hassan, Rami Hijazi
-
-
-ФРАВИЯ Искусство поиска. 
-Франческо Вианелло
-
-
-Метаданные файлов:
-Невидимая информация, раскрывающая вашу личность.
-
-
-NATO Open Source Intelligence Handbook
 
 
 
