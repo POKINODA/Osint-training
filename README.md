@@ -17,7 +17,7 @@
 | GPT OSINT                                 | 
 | Telegram                                  |
 | Email                                     |
-
+| Раследования по России                    |
 
 # Nickname
 > **Никнейм — это псевдоним или виртуальное имя, которое человек использует в интернете, вместо своего реального имени. Никнеймы часто применяются на различных платформах: социальных сетях, форумах, игровых сервисах и т.д. Они позволяют пользователю скрыть свою личную информацию и создавать уникальную идентичность в онлайн-пространстве.Однако как мы видим инструменты ниже доказали, что многие люди не соблюдают анонимность, ставя свой никнейм везде.**
@@ -81,6 +81,10 @@ SEO-анализ: Изучение метрик домена, таких как 
 
 - [Domain Osint](https://github.com/sdcweb/Domains_OSINT)
 
+- [Whois](https://www.whoxy.com/)
+
+- [SecurityTrails](https://securitytrails.com)
+
 - [Shodan](Shodan.io)
 
 - [TheDomainRobot](https://thedomainrobot.com/)
@@ -104,6 +108,8 @@ WHOIS-запрос: Позволяет узнать, кому принадлеж
 - [Maltego](https://www.maltego.com/)
 
 - [IpInfo](https://github.com/AlexZiroYT/IPinfo)
+
+- [Host](https://host.io/)
 
 - [TraxOsint](https://github.com/N0rz3/TraxOsint)
 
@@ -243,6 +249,23 @@ WHOIS-запрос: Позволяет узнать, кому принадлеж
 [GitBookGeoint](https://gitbook.osint-mindset.com/cases/reshenie-geoint_quiz-34)
 
 [Осинт Заначка](https://t.me/osint_box)
+
+
+### Проверка в России
+
+[FSSPRUS](https://fssprus.su)
+L [Читать статью](https://telegra.ph/FSSPRUS-03-13)
+
+[RU.WANTED](https://мвд.рф/wanted)
+
+[В бегах](https://fsin.gov.ru/criminal/)
+
+[INTERPOL](https://www.interpol.int/How-we-work/Notices/Red-Notices/View-Red-Notices)
+
+[Декларатор](https://declarator.org/)
+
+
+
 
 
 ### Thanks
