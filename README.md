@@ -17,8 +17,8 @@
 | GPT OSINT                                 | 
 | Telegram                                  |
 | Email                                     |
-| Раследования по России                    |
-| Расследования за пределами                |
+| Поиск по СНГ                              |
+| Поиск за пределами                        |
 
 # Nickname
 > **Никнейм — это псевдоним или виртуальное имя, которое человек использует в интернете, вместо своего реального имени. Никнеймы часто применяются на различных платформах: социальных сетях, форумах, игровых сервисах и т.д. Они позволяют пользователю скрыть свою личную информацию и создавать уникальную идентичность в онлайн-пространстве.Однако как мы видим инструменты ниже доказали, что многие люди не соблюдают анонимность, ставя свой никнейм везде.**
@@ -252,9 +252,10 @@ WHOIS-запрос: Позволяет узнать, кому принадлеж
 [Осинт Заначка](https://t.me/osint_box)
 
 
-### Проверка в России
+### Поиск по СНГ
 
 [FSSPRUS](https://fssprus.su)
+
 L [Читать статью](https://telegra.ph/FSSPRUS-03-13)
 
 [RU.WANTED](https://мвд.рф/wanted)
@@ -269,6 +270,18 @@ L [Читать статью](https://telegra.ph/FSSPRUS-03-13)
 
 [MailRu](https://mail.ru/)
 
+[FindPersonGos](https://lkfl.portal.nalog.gov.by/findPerson/)
+
+[KZ_Реестр неблагодежных налогоплательщиков](https://kgd.gov.kz/kk/services/taxpayer_search_unreliable)
+
+[FA-FA.KZ](https://fa-fa.kz/search_ip_too/)
+
+[checko](https://checko.ru/by/)
+
+[Справочник](https://spravochnik109.link/)
+
+
+
 ### Поиск за пределами 
 
 [moneyhouse](https://www.moneyhouse.ch/en/saison?ActiveMandates=true&Status=18&tab=companies)
@@ -279,8 +292,15 @@ L [Читать статью](https://telegra.ph/FSSPRUS-03-13)
 
 [DasTelefon](https://www.telefonbuch.de/)
 
+[hitta.se](https://www.hitta.se/)
 
+[PeekYou](https://www.peekyou.com/)
 
+[Google](https://www.google.com/)
+
+[DuckDuckGO](https://duckduckgo.com/)
+
+[Telefoonboek](https://www.telefoonboek.nl/)
 
 ### Thanks
 
